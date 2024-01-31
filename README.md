@@ -1,1 +1,2 @@
 # HR-Analytics-BI-Solution
+Led the development of a Power BI-driven HR analytics project, consolidating and cleaning diverse HR datasets. Created dynamic dashboards and reports showcasing key HR metrics, implemented predictive analytics for workforce trends, and conducted employee engagement analysis. Customized KPI tracking facilitated real-time monitoring of HR goals, fostering cross-functional collaboration and continuous improvement. The project empowered HR teams with actionable insights, contributing to data-driven talent management and organizational optimization.
